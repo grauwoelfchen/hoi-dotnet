@@ -4,6 +4,12 @@ Hoi .NET
 Hoi zäme ;)
 
 
+Repository
+----------
+
+https://gitlab.com/grauwoelfchen/hoi-dotnet
+
+
 Setup
 -----
 
@@ -11,7 +17,7 @@ e.g. Gentoo Linux
 
 .. code:: zsh
 
-  : https://github.com/gentoo/dotnet
+  : See https://github.com/gentoo/dotnet
   % sudo emerge -av layman
   % sudo layman -L dotnet
   % sudo layman -a dotnet

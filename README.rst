@@ -66,3 +66,13 @@ Test
 
   % dotnet restore
   % dotnet test
+
+
+License
+-------
+
+``The MIT License``
+
+.. code:: text
+
+  Copyright (c) 2018 Yasuhiro Asaka
